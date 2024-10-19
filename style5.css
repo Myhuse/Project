@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+h1{
+    letter-spacing: 3px;
+    font-size: 50px;
+    color: white;
+}
+
+h4{
+    font-size: 25px;
+    color: white;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}
+
+img{
+    height: 280px;
+    width: 400px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    color: black;
+}
+button:hover{
+    background-color: green;
+    color: white;
+}
+
+
+div{
+    margin-left: 50px;
+}

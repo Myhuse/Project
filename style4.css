@@ -1,0 +1,215 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+}
+
+.style-div1{
+    width: 2100px;
+    margin: auto;
+    padding-bottom: 20px;
+    position: relative; 
+    background-color: rgb(4, 78, 4);  
+}
+
+.logo-bali{
+    font-size: 70px;
+    font-weight: 800;
+    float: left;
+    font-family: Courier;
+    color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.menu-style{
+    float: right;
+    margin-top: 20px;
+}
+
+nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 80px;
+}
+nav ul li{
+    overflow: hidden;
+}
+nav ul li{
+    float: left;
+}
+nav ul li a{
+    color: white;
+    font-weight: bold;
+    padding: 0px 25px 0px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+#style-login{
+    background-color: blue;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+
+#style-signup{
+    background-color: blue;
+    color: white;
+    padding: 15px 20px 15px 20px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+#style-login:hover{
+    background-color: greenyellow;
+    color: black;
+}
+
+#style-signup:hover{
+    background-color: greenyellow;
+    color: black;
+}
+
+.imgg{
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: -40px;
+}
+
+body{
+    background-color: black;
+}
+
+.li-style li{
+    overflow: hidden;
+    float: left;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.par-style{
+    background-color: rgb(5, 46, 5);
+    width: 375px;
+    padding-left: 0px;
+    padding-bottom: 100px;
+    padding-left: -10px;
+    margin: 100px 40px 10px 100px;
+    border-radius: 20px ;
+    color: white;
+}
+.par-style img{
+    height: 250px;
+    border-radius: 20px 20px 0px 0px;
+}
+.par-style h2{
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.par-style button{
+    padding: 15px 50px 15px 50px;
+    margin-top: 20px;
+    margin-left: 115px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: large;
+    color: white;
+    background-color: green;
+}
+
+.par-style button:hover{
+    background-color: aquamarine;
+    color: black;
+
+}
+
+
+
+.ad-style{
+    background-color: rgb(5, 46, 5);
+    width: 375px;
+    padding-left: 0px;
+    padding-bottom: 100px;
+    padding-left: -10px;
+    margin: 100px 20px 10px 100px;
+    border-radius: 20px ;
+    color: white;
+    justify-content: center;
+}
+.ad-style img{
+    height: 250px;
+    border-radius: 20px 20px 0px 0px;
+}
+.ad-style h2{
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ad-style button{
+    padding: 15px 50px 15px 50px;
+    margin-top: 20px;
+    margin-left: 115px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: large;
+    color: white;
+    background-color: green;
+}
+.ad-style button:hover{
+    background-color: aquamarine;
+    color: black;
+}
+
+
+
+.mak-style{
+    background-color: rgb(5, 46, 5);
+    width: 375px;
+    padding-left: 0px;
+    padding-bottom: 100px;
+    padding-left: -10px;
+    margin: 100px 40px 10px 100px;
+    border-radius: 20px ;
+    color: white;
+}
+.mak-style img{
+    height: 250px;
+    border-radius: 20px 20px 0px 0px;
+}
+.mak-style h2{
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.mak-style button{
+    padding: 15px 50px 15px 50px;
+    margin-top: 20px;
+    margin-left: 115px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: large;
+    color: white;
+    background-color: green;
+}
+.mak-style button:hover{
+    background-color: aquamarine;
+    color: black;
+}

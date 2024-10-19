@@ -1,0 +1,104 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans',sans-serif;
+    background-color: black;
+}
+
+.style-div1{
+    width: 2100px;
+    margin: auto;
+    padding-bottom: 20px;
+    position: relative; 
+    background-color: rgb(4, 78, 4);  
+}
+
+.logo-bali{
+    font-size: 70px;
+    font-weight: 800;
+    float: left;
+    font-family: Courier;
+    color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.menu-style{
+    float: right;
+    margin-top: 20px;
+}
+
+nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    line-height: 80px;
+}
+nav ul li{
+    overflow: hidden;
+}
+nav ul li{
+    float: left;
+}
+nav ul li a{
+    color: white;
+    font-weight: bold;
+    padding: 0px 25px 0px 25px;
+    text-align: center;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}
+
+#style-login{
+    background-color: blue;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+
+#style-login:hover{
+    background-color: greenyellow;
+    color: black;
+}
+
+#style-signup{
+    background-color: blue;
+    color: white;
+    padding: 15px 20px 15px 20px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+#style-signup:hover{
+    background-color: greenyellow;
+    color: black;
+}
+
+.imgg{
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: -40px;
+}
+
+
+.text-style{
+    color: white;
+    margin-top: 70px;
+    margin-left: 100px;
+    font-size: x-large;
+}
+
+.pemandangan{
+    height:  550px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
